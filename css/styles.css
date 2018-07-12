@@ -36,4 +36,9 @@ nav   {
     text-align: center;
     color: #8838a5;
     font-size: 40px;
+    font:sans-serif;
+    font-weight: bold;
+  }
+  h6 {
+    font-size: 40px;
   }
