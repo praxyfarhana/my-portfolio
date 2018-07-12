@@ -12,7 +12,7 @@ nav   {
   font-size: 15px;
   color:#332200;
   }
-  a:hover{
+    a:hover{
     box-shadow: 3px 3px 3px #42cef4;
     background-color: #ad42f4;
   }
@@ -25,6 +25,9 @@ nav   {
       text-align: center;
       padding-top: 5%;
     }
-  ol a {
+  ol {
     text-align: left;
+  }
+  ol li {
+    text-align: center;
   }
