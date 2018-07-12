@@ -4,3 +4,19 @@
         height:100%;
         width:100%;
 }
+nav   {
+    display: inline-block;
+      }
+.nav a   {
+  padding:10px;
+  font-size: 15px;
+  color:#332200;
+  }
+  a:hover{
+    box-shadow: 3px 3px 3px #42cef4;
+    background-color: #ad42f4;
+  }
+  ul {
+    margin-top: 30px;
+    text-align: right;
+  }
