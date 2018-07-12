@@ -24,10 +24,16 @@ nav   {
       margin: 5%;
       text-align: center;
       padding-top: 5%;
+      color: #1d0d23;
     }
   ol {
     text-align: left;
   }
   ol li {
     text-align: center;
+  }
+  marquee {
+    text-align: center;
+    color: #8838a5;
+    font-size: 40px;
   }
