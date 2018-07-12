@@ -18,9 +18,13 @@ nav   {
   }
   ul {
     margin-top: 30px;
-    text-align: right;
-  }
+    text-align:right;
+      }
   body {
       margin: 5%;
       text-align: center;
       padding-top: 5%;
+    }
+  ol a {
+    text-align: left;
+  }
